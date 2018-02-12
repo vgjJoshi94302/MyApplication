@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtv" type="id">Textview</item>
+    <item name="btn" type="id">button</item>
+    <item name="butn" type="id">button</item>
+    <item name="textview" type="id">TextView</item>
+</resources>
